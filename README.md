@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Vanesa
 
 ## Sobre mí
-Soy **Diseñadora Gráfica, Desarrolladora Web Fullstack**  
+Soy **Diseñadora Gráfica, Desarrolladora Web Fullstack y Operadora de IA**  
 con pasión por la tecnología, el diseño y la programación. Me estoy reinventando profesionalmente para desarrollar soluciones tecnológicas reales.  
 
 - 📍 Córdoba, Argentina  
@@ -10,5 +10,5 @@ con pasión por la tecnología, el diseño y la programación. Me estoy reinvent
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vanesa-paola-soria/)
 
 ## Intereses y aprendizaje
-👀 Me interesa: el diseño gráfico, el desarrollo web y proyectos full stack    
-💞️ Busco colaborar en: proyectos web desafiantes
+💞️ **Busco colaborar en:** Proyectos Fullstack, desarrollo de soluciones con IA y herramientas educativas.    
+🚀 **Enfocada en:** Aprender a integrar agentes autónomos para optimizar el desarrollo de software y potenciar el aprendizaje técnico.
